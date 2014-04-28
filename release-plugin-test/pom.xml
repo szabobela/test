@@ -3,9 +3,10 @@
   <groupId>hu.sonrisa.test</groupId>
   <artifactId>release-plugin-test</artifactId>
   <packaging>war</packaging>
-  <version>0.0.2-SNAPSHOT</version>
+  <version>0.0.3-SNAPSHOT</version>
   <name>release-plugin-test Maven Webapp</name>
   <url>http://maven.apache.org</url>
+  <!-- test comment -->
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
